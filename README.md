@@ -2,7 +2,7 @@
 
 Start menu: 
 
-<img width="588" height="348" alt="image" src="https://github.com/user-attachments/assets/250dc082-003d-4d02-a9d6-58d8c9492a4e" />
+<img width="147" height="87" alt="image" src="https://github.com/user-attachments/assets/250dc082-003d-4d02-a9d6-58d8c9492a4e" />
 
 Gameplay: 
 
