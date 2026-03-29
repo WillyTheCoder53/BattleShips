@@ -14,6 +14,8 @@ Features include:
 
 ## Screenshots 
 
+`Console.WriteLine("Hi");`
+
 ### Start menu: 
 
 <img width="294" height="174" alt="image" src="https://github.com/user-attachments/assets/250dc082-003d-4d02-a9d6-58d8c9492a4e" />
