@@ -2,6 +2,8 @@
 
 ## Introduction
 
+A 700-line console-only C# battleship project. This was a task set out by my A-level college.
+
 Features include:
 - Autosaving the game every time a change is made
 - Resuming/Loading the previous game
